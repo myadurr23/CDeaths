@@ -1,0 +1,85 @@
+Cancer Sites,Deaths,Population,"Age-Adjusted Rate Per 100,000"
+All Cancer Sites Combined,4443886.00,2312351719.00,191
+Oral Cavity and Pharynx,61512.00,2312351719.00,2.6
+Lip,527.00,2312351719.00,0
+Tongue,14820.00,2312351719.00,0.6
+Salivary Gland,5519.00,2312351719.00,0.2
+Floor of Mouth,1135.00,2312351719.00,0
+Gum and Other Mouth,9329.00,2312351719.00,0.4
+Nasopharynx,5020.00,2312351719.00,0.2
+Tonsil,4812.00,2312351719.00,0.2
+Oropharynx,4934.00,2312351719.00,0.2
+Hypopharynx,2683.00,2312351719.00,0.1
+Other Oral Cavity and Pharynx,12733.00,2312351719.00,0.5
+Digestive System,1059719.00,2312351719.00,45.5
+Esophagus,102445.00,2312351719.00,4.4
+Stomach,96701.00,2312351719.00,4.2
+Small Intestine,8585.00,2312351719.00,0.4
+Colon and Rectum,443631.00,2312351719.00,19
+Colon excluding Rectum,375152.00,2312351719.00,16.1
+Rectum and Rectosigmoid Junction,68479.00,2312351719.00,2.9
+"Anus, Anal Canal and Anorectum",4354.00,2312351719.00,0.2
+Liver and Intrahepatic Bile Duct,115323.00,2312351719.00,4.9
+Liver,90189.00,2312351719.00,3.9
+Intrahepatic Bile Duct,25134.00,2312351719.00,1.1
+Gallbladder,15726.00,2312351719.00,0.7
+Other Biliary,12222.00,2312351719.00,0.5
+Pancreas,247238.00,2312351719.00,10.6
+Retroperitoneum,1759.00,2312351719.00,0.1
+"Peritoneum, Omentum and Mesentery",4725.00,2312351719.00,0.2
+Other Digestive Organs,7010.00,2312351719.00,0.3
+Respiratory System,1291383.00,2312351719.00,55.7
+"Nose, Nasal Cavity and Middle Ear",3629.00,2312351719.00,0.2
+Larynx,30271.00,2312351719.00,1.3
+Lung and Bronchus,1254898.00,2312351719.00,54.1
+Pleura,617.00,2312351719.00,0
+"Trachea, Mediastinum and Other Respiratory Organs",1968.00,2312351719.00,0.1
+Bones and Joints,10222.00,2312351719.00,0.4
+Soft Tissue including Heart,29754.00,2312351719.00,1.3
+Skin excluding Basal and Squamous,81479.00,2312351719.00,3.5
+Melanoma of the Skin,62246.00,2312351719.00,2.7
+Other Non-Epithelial Skin,19233.00,2312351719.00,0.8
+Male and Female Breast,333534.00,2312351719.00,14.3
+Female Breast,330433.00,1175901864.00,25.2
+Male Breast,3101.00,1136449855.00,0.3
+Female Genital System,215388.00,1175901864.00,16.4
+Cervix Uteri,32117.00,1175901864.00,2.6
+Corpus Uteri,25873.00,1175901864.00,2
+"Uterus, NOS",29185.00,1175901864.00,2.2
+Ovary,115800.00,1175901864.00,8.8
+Vagina,3153.00,1175901864.00,0.2
+Vulva,6325.00,1175901864.00,0.5
+Other Female Genital Organs,2935.00,1175901864.00,0.2
+Male Genital System,244747.00,1136449855.00,27.8
+Prostate,239804.00,1136449855.00,27.3
+Testis,2862.00,1136449855.00,0.3
+Penis,1776.00,1136449855.00,0.2
+Other Male Genital Organs,305.00,1136449855.00,0
+Urinary System,202766.00,2312351719.00,8.7
+Urinary Bladder,101004.00,2312351719.00,4.3
+Kidney and Renal Pelvis,96590.00,2312351719.00,4.1
+Ureter,2603.00,2312351719.00,0.1
+Other Urinary Organs,2569.00,2312351719.00,0.1
+Eye and Orbit,1839.00,2312351719.00,0.1
+Brain and Other Nervous System,102627.00,2312351719.00,4.4
+Endocrine System,18071.00,2312351719.00,0.8
+Thyroid,10991.00,2312351719.00,0.5
+Other Endocrine including Thymus,7080.00,2312351719.00,0.3
+Lymphomas,184212.00,2312351719.00,7.9
+Hodgkin Lymphoma,10587.00,2312351719.00,0.5
+Non-Hodgkin Lymphoma,173625.00,2312351719.00,7.5
+Myeloma,85631.00,2312351719.00,3.7
+Leukemias,172393.00,2312351719.00,7.4
+Acute Lymphocytic Leukemia,11274.00,2312351719.00,0.5
+Chronic Lymphocytic Leukemia,35335.00,2312351719.00,1.5
+Acute Myeloid Leukemia,63154.00,2312351719.00,2.7
+Chronic Myeloid Leukemia,11147.00,2312351719.00,0.5
+Other Leukemias,51483.00,2312351719.00,2.2
+Other Lymphocytic Leukemia,3104.00,2312351719.00,0.1
+Acute Monocytic Leukemia,896.00,2312351719.00,0
+Other Acute Leukemia,18718.00,2312351719.00,0.8
+"Aleukemic, Subleukemic and NOS",23657.00,2312351719.00,1
+Other Myeloid/Monocytic Leukemia,5108.00,2312351719.00,0.2
+Mesothelioma,19513.00,2312351719.00,0.8
+Kaposi Sarcoma,389.00,2312351719.00,0
+Miscellaneous,328707.00,2312351719.00,14.1
